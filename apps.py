@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class ClientSiteConfig(AppConfig):
-    name = 'Remote_User'
+class ResearchSiteConfig(AppConfig):
+    name = 'Service_Provider'
